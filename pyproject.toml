@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "naref"
-version = "0.0.3"
+version = "0.0.4"
 authors = [
   { name="Ulysse Rémond", email="contact@uremond.net"},
   { name="Naomi Chmielewski", email="naomi.chmielewski@gmail.com"},
