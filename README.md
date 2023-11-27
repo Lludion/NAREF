@@ -2,8 +2,9 @@
 
 ## Neutral Atom Renewable Energy Forecasting
 
-This file showcases quantum and classical reservoirs in a simple example.
+This file showcases quantum and classical reservoirs in a simple example. The video may be found at http://tiny.cc/naref or below :
 
+![](https://www.youtube.com/embed/8Ar3v_t6K9s?si=i9KRE9Ya_XR5_zsX)
 
 ```python
 import naref
@@ -154,7 +155,7 @@ crc.get_error_test()
 
     
 ![png](img/output_6_1.png)
-    
+
 
 
 
@@ -183,6 +184,8 @@ crc.get_error_train()
 
 
 
-```python
-
-```
+<div>
+<video width="560" height="315" controls>
+<source src="https://www.youtube.com/embed/8Ar3v_t6K9s?si=i9KRE9Ya_XR5_zsX" type="video/mp4">
+</video>
+</div>
